@@ -394,7 +394,7 @@
         <item>com.google.android.apps.tycho</item>
     </string-array>
 
-    <!-- Whether WiFi display is supported by this device.
+ <!-- Whether WiFi display is supported by this device.
          There are many prerequisites for this feature to work correctly.
          Here are a few of them:
          * The WiFi radio must support WiFi P2P.
